@@ -9,12 +9,12 @@
 
 ### 软件架构
 
-![alt text](./doc/架构图.png)
+![架构图](./doc/架构图.png)
 由于要实现外网访问，提供了测试使用的中转服务器。
 
 以客户端下载文件为例，流程图如下：
 
-![alt text](./doc/下载流程图.png)
+![下载流程图](./doc/下载流程图.png)
 
 
 ### 安装教程
@@ -42,6 +42,6 @@ https://github.com/laofuzicsl/aa-nas-client
 ### 交流
 有兴趣的伙伴可以加入交流群:
 
-![alt text](./doc/交流群二维码.png)
+![交流群二维码](./doc/交流群二维码.png)
 
 也可通过邮箱与我联系：csl_mn@163.com
